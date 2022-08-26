@@ -1,0 +1,19 @@
+{
+  "name": "shri2022-performance",
+  "version": "1.0.0",
+  "description": "Оптимизировать страницу, выложить результат на Github-Pages и отправить его на проверку на [https://shri-performance.ru/](https://shri-performance.ru/), отправив адрес вашей страницы. Нужно набрать минимум **300 баллов**.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production --node-env=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexaWin/shri2022-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexaWin/shri2022-performance/issues"
+  },
+  "homepage": "https://github.com/LexaWin/shri2022-performance#readme"
+}
